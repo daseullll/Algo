@@ -59,7 +59,7 @@ public class Solution_신고결과받기 {
     public static void main(String[] args) {
 
         String[] a = { "muzi", "frodo", "apeach", "neo" };
-        String[] b = { "muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach muzi" };
+        String[] b = { "muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach", "muzi" };
         solution(a, b, 2);
     }
 
