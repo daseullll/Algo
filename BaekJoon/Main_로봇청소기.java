@@ -63,7 +63,6 @@ public class Main_로봇청소기 {
     public static void clean(int r, int c, int d) {
 
         if (!isPossible(r, c)) { // 네 곳 다 갈 곳이 없을 경우
-            boolean back = true;
             // 바라보는 방향으로 후진
             int rn = r + delta[(d + 2) % 4][0];
             int cn = c + delta[(d + 2) % 4][1];
