@@ -11,6 +11,4 @@
 | 10.20 | 주차요금계산            | Programmers | :heavy_check_mark: |
 | 10.21 | 튜플                    | Programmers | :heavy_check_mark: |
 | 10.23 | 뉴스클러스터링          | Programmers | :heavy_check_mark: |
-
----2023---
-| 01.04 | 상자넣기 | BaekJoon | :heavy_check_mark: |
+| 01.04 | 상자넣기                | BaekJoon    | :heavy_check_mark: |
