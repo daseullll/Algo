@@ -1,7 +1,6 @@
 package Programmers;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
 class Solution_뉴스클러스터링 {
