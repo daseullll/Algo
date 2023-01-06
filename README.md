@@ -13,3 +13,4 @@
 | 10.23 | 뉴스클러스터링          | Programmers | :heavy_check_mark: |
 | 01.04 | 상자넣기                | BaekJoon    | :heavy_check_mark: |
 | 01.05 | 센서                    | BaekJoon    | :heavy_check_mark: |
+| 01.06 | 컨베이어 벨트 위의 로봇 | BaekJoon    | :heavy_check_mark: |
