@@ -1,4 +1,4 @@
-### :pushpin: [문제 풀이](https://amazing-act-aab.notion.site/Study-63bcff57acf54873bc69d604866107c2)
+### :pushpin: [문제 풀이(노션)](https://amazing-act-aab.notion.site/Study-63bcff57acf54873bc69d604866107c2)
 
 <br>
 
