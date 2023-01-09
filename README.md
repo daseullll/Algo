@@ -14,3 +14,4 @@
 | 01.04 | 상자넣기                | BaekJoon    | :heavy_check_mark: |
 | 01.05 | 센서                    | BaekJoon    | :heavy_check_mark: |
 | 01.06 | 컨베이어 벨트 위의 로봇 | BaekJoon    | :heavy_check_mark: |
+| 01.09 | 도서관                  | BaekJoon    | :heavy_check_mark: |
