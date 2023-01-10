@@ -1,8 +1,7 @@
-### :pushpin: [문제 풀이](https://amazing-act-aab.notion.site/Study-63bcff57acf54873bc69d604866107c2)
+## To-do
+### :pushpin: [문제 풀이(노션)](https://amazing-act-aab.notion.site/Study-63bcff57acf54873bc69d604866107c2)
 
-<br>
-
-| 날짜  | 문제                    | 기타        | 풀이               |
+| 날짜  | 문제                    | 사이트        | CHECK               |
 | ----- | ----------------------- | ----------- | ------------------ |
 | 09.07 | 신고결과받기            | Programmers | :heavy_check_mark: |
 | 09.08 | 같은숫자는싫어          | Programmers | :heavy_check_mark: |
