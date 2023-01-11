@@ -1,7 +1,8 @@
 ## To-do
+
 ### :pushpin: [문제 풀이(노션)](https://amazing-act-aab.notion.site/Study-63bcff57acf54873bc69d604866107c2)
 
-| 날짜  | 문제                    | 사이트        | CHECK               |
+| 날짜  | 문제                    | 사이트      | CHECK              |
 | ----- | ----------------------- | ----------- | ------------------ |
 | 09.07 | 신고결과받기            | Programmers | :heavy_check_mark: |
 | 09.08 | 같은숫자는싫어          | Programmers | :heavy_check_mark: |
@@ -18,4 +19,5 @@
 | 01.05 | 센서                    | BaekJoon    | :heavy_check_mark: |
 | 01.06 | 컨베이어 벨트 위의 로봇 | BaekJoon    | :heavy_check_mark: |
 | 01.09 | 도서관                  | BaekJoon    | :heavy_check_mark: |
-| 01.10 | 토마토                  | BaekJoon    | :heavy_check_mark: |
+| 01.10 | 토마토(7569)            | BaekJoon    | :heavy_check_mark: |
+| 01.11 | 끝나지않는 파티 (11265) | BaekJoon    | :heavy_check_mark: |
