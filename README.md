@@ -22,3 +22,4 @@
 | 01.10 | 토마토(7569)            | BaekJoon    | :heavy_check_mark: |
 | 01.11 | 끝나지않는 파티 (11265) | BaekJoon    | :heavy_check_mark: |
 | 01.12 | 퇴사2 (15486)           | BaekJoon    | :heavy_check_mark: |
+| 01.13 | 촌수계산 (2644)         | BaekJoon    | :heavy_check_mark: |
