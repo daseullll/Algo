@@ -29,3 +29,4 @@
 | 01.17 | 단어뒤집기2 (17413)     | BaekJoon    | :heavy_check_mark: |
 | 01.18 | 동전2 (2294)            | BaekJoon    | :heavy_check_mark: |
 | 01.19 | 동전1 (2293)            | BaekJoon    | :heavy_check_mark: |
+| 01.19 | 폰켓몬                  | Programmers | :heavy_check_mark: |
