@@ -31,3 +31,4 @@
 | 01.19 | 동전1 (2293)            | BaekJoon    | :heavy_check_mark: |
 | 01.19 | 폰켓몬                  | Programmers | :heavy_check_mark: |
 | 01.20 | 빙산 (2573)             | BaekJoon    | :heavy_check_mark: |
+| 01.21 | 완주하지 못한 선수      | Programmers | :heavy_check_mark: |
