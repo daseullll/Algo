@@ -30,3 +30,4 @@
 | 01.18 | 동전2 (2294)            | BaekJoon    | :heavy_check_mark: |
 | 01.19 | 동전1 (2293)            | BaekJoon    | :heavy_check_mark: |
 | 01.19 | 폰켓몬                  | Programmers | :heavy_check_mark: |
+| 01.20 | 빙산 (2573)             | BaekJoon    | :heavy_check_mark: |
