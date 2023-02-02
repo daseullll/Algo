@@ -12,11 +12,11 @@ public class Solution_메뉴리뉴얼 {
         ArrayList<String> answer = new ArrayList<>();
 
         for (int i = 0; i < orders.length; i++) {
-            // 2. 각 문자열을 문자형 배열로 변환.
+            // 각 문자열을 문자형 배열로 변환.
             char[] charArr = orders[i].toCharArray();
-            // 3. 해당 문자형 배열을 정렬.
+            // 해당 문자형 배열을 정렬.
             Arrays.sort(charArr);
-            // 4. 정렬된 문자형 배열을 문자열로 변환해 저장.
+            // 정렬된 문자형 배열을 문자열로 변환해 저장.
             orders[i] = String.valueOf(charArr);
         }
 
@@ -29,6 +29,8 @@ public class Solution_메뉴리뉴얼 {
                     comb(0, 0, course[i], orders[j], sb);
             }
 
+            // hashMap 탐색하는 방법
+            // entrySet() : 키 값 모아둔 것
             for (Entry<String, Integer> e : hs.entrySet()) {
                 max = Math.max(max, e.getValue());
             }
