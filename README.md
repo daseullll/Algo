@@ -33,3 +33,4 @@
 | 01.20 | 빙산 (2573)             | BaekJoon    | :heavy_check_mark: |
 | 01.20 | 완주하지 못한 선수      | Programmers | :heavy_check_mark: |
 | 02.02 | 메뉴 리뉴얼             | Programmers | :heavy_check_mark: |
+| 02.03 | 괄호 회전하기           | Programmers | :heavy_check_mark: |
