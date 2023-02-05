@@ -36,3 +36,4 @@
 | 02.03 | 괄호 회전하기           | Programmers | :heavy_check_mark: |
 | 02.03 | 방문 길이               | Programmers | :heavy_check_mark: |
 | 02.05 | 전화번호 목록           | Programmers | :heavy_check_mark: |
+| 02.05 | 위장                    | Programmers | :heavy_check_mark: |

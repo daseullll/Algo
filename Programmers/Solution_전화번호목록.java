@@ -16,7 +16,6 @@ public class Solution_전화번호목록 {
             String cur = phone_book[i];
             for (int j = 1; j < cur.length() + 1; j++) {
                 String cur2 = phone_book[i].substring(0, j);
-                System.out.println(cur2);
                 if (num.contains(cur2)) {
                     answer = false;
                 }
@@ -25,7 +24,6 @@ public class Solution_전화번호목록 {
 
         }
 
-        System.out.println(answer);
         return answer;
     }
 
