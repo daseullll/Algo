@@ -42,3 +42,4 @@
 | 02.06 | 가장 큰 수              | Programmers | :heavy_check_mark: |
 | 02.07 | 타겟 넘버               | Programmers | :heavy_check_mark: |
 | 02.07 | 게임 맵 최단거리        | Programmers | :heavy_check_mark: |
+| 02.07 | 더 맵게                 | Programmers | :heavy_check_mark: |
