@@ -44,3 +44,4 @@
 | 02.07 | 게임 맵 최단거리        | Programmers | :heavy_check_mark: |
 | 02.07 | 더 맵게                 | Programmers | :heavy_check_mark: |
 | 02.07 | 기능 개발               | Programmers | :heavy_check_mark: |
+| 02.08 | 체육복                  | Programmers | :heavy_check_mark: |
