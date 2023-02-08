@@ -48,8 +48,4 @@ public class Solution_N으로표현 {
         return answer;
     }
 
-    public static void main(String[] args) {
-        solution(5, 12);
-    }
-
 }
