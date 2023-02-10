@@ -49,3 +49,4 @@
 | 02.08 | 최소 직사각형           | Programmers | :heavy_check_mark: |
 | 02.09 | 모의고사                | Programmers | :heavy_check_mark: |
 | 02.09 | 소수 찾기               | Programmers | :heavy_check_mark: |
+| 02.10 | 명령 프롬프트           | BaekJoon    | :heavy_check_mark: |
