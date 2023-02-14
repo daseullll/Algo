@@ -54,3 +54,4 @@
 | 02.13 | 피로도                  | Programmers | :heavy_check_mark: |
 | 02.14 | 전력망을 둘로 나누기    | Programmers | :heavy_check_mark: |
 | 02.14 | ZOAC4                   | BaekJoon    | :heavy_check_mark: |
+| 02.14 | 빗물                    | BaekJoon    | :heavy_check_mark: |
