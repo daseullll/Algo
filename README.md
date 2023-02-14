@@ -52,3 +52,4 @@
 | 02.10 | 명령 프롬프트           | BaekJoon    | :heavy_check_mark: |
 | 02.11 | 단어 정렬               | BaekJoon    | :heavy_check_mark: |
 | 02.13 | 피로도                  | Programmers | :heavy_check_mark: |
+| 02.14 | 전력망을 둘로 나누기    | Programmers | :heavy_check_mark: |
