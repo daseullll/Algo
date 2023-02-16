@@ -1,3 +1,9 @@
+
+/**
+ * 0-1 napsack 문제
+ * i번째 물건을 넣었을 때와 넣지 않았을 때, 둘 중 더 가치가 큰 것을 가져오면 되는 것
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
