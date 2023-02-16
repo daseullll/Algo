@@ -56,3 +56,4 @@
 | 02.14 | ZOAC4                   | BaekJoon    | :heavy_check_mark: |
 | 02.14 | 빗물                    | BaekJoon    | :heavy_check_mark: |
 | 02.15 | 테트로미노              | BaekJoon    | :heavy_check_mark: |
+| 02.16 | 평범한 배낭             | BaekJoon    | :heavy_check_mark: |
