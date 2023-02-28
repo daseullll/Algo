@@ -58,3 +58,4 @@
 | 02.15 | 테트로미노              | BaekJoon    | :heavy_check_mark: |
 | 02.16 | 평범한 배낭             | BaekJoon    | :heavy_check_mark: |
 | 02.27 | 오큰수                  | BaekJoon    | :heavy_check_mark: |
+| 02.28 | 상어 초등학교(21608)    | BaekJoon    | :heavy_check_mark: |

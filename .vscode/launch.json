@@ -1,0 +1,399 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_ZOAC4",
+            "request": "launch",
+            "mainClass": "Main_ZOAC4",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_공주님을구해라",
+            "request": "launch",
+            "mainClass": "Main_공주님을구해라",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_끝나지않는파티",
+            "request": "launch",
+            "mainClass": "Main_끝나지않는파티",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_단어뒤집기2",
+            "request": "launch",
+            "mainClass": "Main_단어뒤집기2",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_단어정렬",
+            "request": "launch",
+            "mainClass": "Main_단어정렬",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_도서관",
+            "request": "launch",
+            "mainClass": "Main_도서관",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_동전1",
+            "request": "launch",
+            "mainClass": "Main_동전1",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_동전2",
+            "request": "launch",
+            "mainClass": "Main_동전2",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_로봇청소기",
+            "request": "launch",
+            "mainClass": "Main_로봇청소기",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_마라톤",
+            "request": "launch",
+            "mainClass": "Main_마라톤",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_명령프롬프트",
+            "request": "launch",
+            "mainClass": "Main_명령프롬프트",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_빗물",
+            "request": "launch",
+            "mainClass": "Main_빗물",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_빙산",
+            "request": "launch",
+            "mainClass": "Main_빙산",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_상어초등학교",
+            "request": "launch",
+            "mainClass": "Main_상어초등학교",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_상자넣기",
+            "request": "launch",
+            "mainClass": "Main_상자넣기",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_센서",
+            "request": "launch",
+            "mainClass": "Main_센서",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_오큰수",
+            "request": "launch",
+            "mainClass": "Main_오큰수",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_촌수계산",
+            "request": "launch",
+            "mainClass": "Main_촌수계산",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_컨벨위로",
+            "request": "launch",
+            "mainClass": "Main_컨벨위로",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_테트로미노",
+            "request": "launch",
+            "mainClass": "Main_테트로미노",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_토마토",
+            "request": "launch",
+            "mainClass": "Main_토마토",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_퇴사2",
+            "request": "launch",
+            "mainClass": "Main_퇴사2",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_평범한배낭",
+            "request": "launch",
+            "mainClass": "Main_평범한배낭",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_K번째수",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_K번째수",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_k진수에서소수개수구하기",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_k진수에서소수개수구하기",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_가장큰수",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_가장큰수",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_같은숫자는싫어",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_같은숫자는싫어",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_게임맵최단거리",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_게임맵최단거리",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_괄호회전하기",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_괄호회전하기",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_기능개발",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_기능개발",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_뉴스클러스터링",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_뉴스클러스터링",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_더맵게",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_더맵게",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_메뉴리뉴얼",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_메뉴리뉴얼",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_모의고사",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_모의고사",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_방문길이",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_방문길이",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_베스트앨범",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_베스트앨범",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_비밀지도",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_비밀지도",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_소수찾기",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_소수찾기",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_숫자문자열과영단어",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_숫자문자열과영단어",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_압축",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_압축",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_완주하지못한선수",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_완주하지못한선수",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_위장",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_위장",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_전력망을둘로나누기",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_전력망을둘로나누기",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_전화번호목록",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_전화번호목록",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_주차요금계산",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_주차요금계산",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_체육복",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_체육복",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_최소직사각형",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_최소직사각형",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_최소직사각형2",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_최소직사각형2",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_캐시",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_캐시",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_타겟넘버",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_타겟넘버",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_튜플",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_튜플",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_폰켓몬",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_폰켓몬",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_피로도",
+            "request": "launch",
+            "mainClass": "Programmers.Solution_피로도",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_8단변속기",
+            "request": "launch",
+            "mainClass": "Softeer.Main_8단변속기",
+            "projectName": "Algo_e5179395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_금고털이",
+            "request": "launch",
+            "mainClass": "Softeer.Main_금고털이",
+            "projectName": "Algo_e5179395"
+        }
+    ]
+}
