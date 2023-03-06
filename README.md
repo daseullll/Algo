@@ -63,3 +63,4 @@
 | 03.05 | 인내의 도미노 장인 호석 | BaekJoon    | :heavy_check_mark: |
 | 03.05 | 홀수 홀릭 호석          | BaekJoon    | :heavy_check_mark: |
 | 03.06 | 오픈채팅방              | Programmers | :heavy_check_mark: |
+| 03.06 | ZOAC                    | BaekJoon    | :heavy_check_mark: |
