@@ -65,3 +65,4 @@
 | 03.06 | 오픈채팅방              | Programmers | :heavy_check_mark: |
 | 03.06 | ZOAC                    | BaekJoon    | :heavy_check_mark: |
 | 03.07 | 파일명 정렬             | Programmers | :heavy_check_mark: |
+| 03.08 | 드래곤 커브             | BaekJoon    | :heavy_check_mark: |
