@@ -47,6 +47,7 @@ public class Main_감시 {
 
     }
 
+    // dfs로 계속 저장하기
     public static void dfs(int cnt, int[][] arr) {
 
         if (cnt == cctvs.size()) {
