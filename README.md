@@ -71,3 +71,4 @@
 | 03.16 | 가비아\_test1           | Programmers | :heavy_check_mark: |
 | 03.16 | 가비아\_test2           | Programmers |                    |
 | 03.17 | 덧칠하기                | Programmers | :heavy_check_mark: |
+| 03.20 | 숫자고르기              | BaekJoon    | :heavy_check_mark: |
