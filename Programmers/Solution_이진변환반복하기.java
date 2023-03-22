@@ -14,9 +14,11 @@ public class Solution_이진변환반복하기 {
 
             count++;
             // 1. 0 제거 하기
+            // s.replaceAll("0","");
             s = remove(s);
 
             // 2. 0 제거 후 문자열 길이를 이진 변환하기
+            // Integer.toBinarySearch("_");
             s = change(s);
 
         }
