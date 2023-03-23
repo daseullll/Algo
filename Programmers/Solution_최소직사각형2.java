@@ -1,4 +1,3 @@
-package Programmers;
 
 public class Solution_최소직사각형2 {
 

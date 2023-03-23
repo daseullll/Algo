@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.Arrays;
 
 public class Solution_가비아_test2 {

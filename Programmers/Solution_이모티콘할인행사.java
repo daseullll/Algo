@@ -1,4 +1,3 @@
-package Programmers;
 
 public class Solution_이모티콘할인행사 {
     static int[] sale = { 40, 30, 20, 10 };

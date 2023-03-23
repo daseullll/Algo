@@ -1,4 +1,3 @@
-package Programmers;
 
 public class Solution_조이스틱 {
 
