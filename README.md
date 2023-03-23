@@ -77,3 +77,4 @@
 | 03.22 | 이진 변환 반복하기      | Programmers | :heavy_check_mark: |
 | 03.22 | 숨바꼭질3(13549)        | BaekJoon    | :heavy_check_mark: |
 | 03.23 | 짝지어 제거하기         | Programmers | :heavy_check_mark: |
+| 03.23 | 스타트와 링크(14889)    | BaekJoon    | :heavy_check_mark: |
