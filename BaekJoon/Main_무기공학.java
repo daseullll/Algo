@@ -35,6 +35,10 @@ public class Main_무기공학 {
 
     }
 
+    /**
+     * @param index : 현재 위치, 열과 행을 가져와서 위치를 파악한다.
+     * @param sum   : 지금까지 누적 합계
+     */
     public static void dfs(int index, int sum) {
 
         if (index == n * m) {
