@@ -81,3 +81,4 @@
 | 03.23 | 파이프 옮기기1(17070)-bfs | BaekJoon    | :heavy_check_mark: |
 | 03.24 | 파이프 옮기기1(17070)-dfs | BaekJoon    | :heavy_check_mark: |
 | 03.24 | 영어 끝말잇기             | Programmers | :heavy_check_mark: |
+| 03.27 | 예상 대진표               | Programmers | :heavy_check_mark: |
