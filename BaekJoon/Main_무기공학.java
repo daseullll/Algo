@@ -30,24 +30,65 @@ public class Main_무기공학 {
         }
 
         // --input end--
+        dfs(0, 0);
+        System.out.println(result);
 
     }
 
-    public static void go(int r, int c) {
+    public static void dfs(int index, int sum) {
 
-        for (int dir = 0; dir < 4; dir++) {
-            int rn = r + delta[dir][0];
-            int cn = c + delta[dir][1];
+        if (index == n * m) {
+            result = Math.max(result, sum);
+            return;
+        }
 
-            if (rn < 0 || rn >= n || cn < 0 || cn >= m)
-                continue;
+        int x = index / m;
+        int y = index % m;
 
-            rn = r + delta[(dir + 1) % 4][0];
-            cn = c + delta[(dir + 1) % 4][1];
+        if (!check[x][y]) {
+            if (x - 1 >= 0 && y + 1 < m && !check[x - 1][y] && !check[x][y + 1]) {
+                check[x][y] = true;
+                check[x - 1][y] = true;
+                check[x][y + 1] = true;
+                dfs(index + 1, sum + arr[x][y] * 2 + arr[x - 1][y] + arr[x][y + 1]);
+                check[x][y] = false;
+                check[x - 1][y] = false;
+                check[x][y + 1] = false;
+            }
 
-            if (rn < 0 || rn >= n || cn < 0 || cn >= m)
-                continue;
+            if (x + 1 < n && y + 1 < m && !check[x + 1][y] && !check[x][y + 1]) {
+                check[x][y] = true;
+                check[x + 1][y] = true;
+                check[x][y + 1] = true;
+                dfs(index + 1, sum + arr[x][y] * 2 + arr[x + 1][y] + arr[x][y + 1]);
+                check[x][y] = false;
+                check[x + 1][y] = false;
+                check[x][y + 1] = false;
+            }
+
+            if (x + 1 < n && y - 1 >= 0 && !check[x + 1][y] && !check[x][y - 1]) {
+                check[x][y] = true;
+                check[x + 1][y] = true;
+                check[x][y - 1] = true;
+                dfs(index + 1, sum + arr[x][y] * 2 + arr[x + 1][y] + arr[x][y - 1]);
+                check[x][y] = false;
+                check[x + 1][y] = false;
+                check[x][y - 1] = false;
+            }
+
+            if (x - 1 >= 0 && y - 1 >= 0 && !check[x - 1][y] && !check[x][y - 1]) {
+                check[x][y] = true;
+                check[x - 1][y] = true;
+                check[x][y - 1] = true;
+                dfs(index + 1, sum + arr[x][y] * 2 + arr[x - 1][y] + arr[x][y - 1]);
+                check[x][y] = false;
+                check[x - 1][y] = false;
+                check[x][y - 1] = false;
+            }
 
         }
+        dfs(index + 1, sum);
+
     }
+
 }
