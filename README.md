@@ -83,3 +83,4 @@
 | 03.24 | 영어 끝말잇기             | Programmers | :heavy_check_mark: |
 | 03.27 | 예상 대진표               | Programmers | :heavy_check_mark: |
 | 03.27 | 무기 공학(18430)          | BaekJoon    | :heavy_check_mark: |
+| 03.29 | 퇴사(14501)               | BaekJoon    | :heavy_check_mark: |
