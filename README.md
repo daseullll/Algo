@@ -84,3 +84,4 @@
 | 03.27 | 예상 대진표               | Programmers | :heavy_check_mark: |
 | 03.27 | 무기 공학(18430)          | BaekJoon    | :heavy_check_mark: |
 | 03.29 | 퇴사(14501)               | BaekJoon    | :heavy_check_mark: |
+| 03.30 | 점프와 순간이동           | Programmers | :heavy_check_mark: |
