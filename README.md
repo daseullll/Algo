@@ -87,3 +87,4 @@
 | 03.30 | 점프와 순간이동           | Programmers | :heavy_check_mark: |
 | 03.30 | n^2 배열 자르기           | Programmers | :heavy_check_mark: |
 | 03.31 | 경사로(14890)             | BaekJoon    | :heavy_check_mark: |
+| 04.01 | 큰 수 만들기              | Programmers | :heavy_check_mark: |
