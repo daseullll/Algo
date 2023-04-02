@@ -89,3 +89,4 @@
 | 03.31 | 경사로(14890)             | BaekJoon    | :heavy_check_mark: |
 | 04.01 | 큰 수 만들기              | Programmers | :heavy_check_mark: |
 | 04.02 | 구명보트                  | Programmers | :heavy_check_mark: |
+| 04.02 | 압축                      | Programmers | :heavy_check_mark: |
