@@ -90,3 +90,4 @@
 | 04.01 | 큰 수 만들기              | Programmers | :heavy_check_mark: |
 | 04.02 | 구명보트                  | Programmers | :heavy_check_mark: |
 | 04.02 | 압축                      | Programmers | :heavy_check_mark: |
+| 04.03 | 마이다스\_test1           | Programmers | :heavy_check_mark: |
