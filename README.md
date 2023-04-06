@@ -96,3 +96,4 @@
 | 04.05 | 이차원 배열과 연산(17140)     | BaekJoon    | :heavy_check_mark: |
 | 04.06 | 게리맨더링2(17779)            | BaekJoon    | :heavy_check_mark: |
 | 04.06 | 마법사 상어와 토네이도(20057) | BaekJoon    | :heavy_check_mark: |
+| 04.07 | 시험감독(13458)               | BaekJoon    | :heavy_check_mark: |
