@@ -94,3 +94,4 @@
 | 04.04 | 게임 개발(1516)              | BaekJoon    | :heavy_check_mark: |
 | 04.04 | 마법사상어와 파이어볼(20056) | BaekJoon    | :heavy_check_mark: |
 | 04.05 | 이차원 배열과 연산(17140)    | BaekJoon    | :heavy_check_mark: |
+| 04.06 | 게리맨더링2(17779)           | BaekJoon    | :heavy_check_mark: |
