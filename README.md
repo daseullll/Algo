@@ -98,3 +98,4 @@
 | 04.06 | 마법사 상어와 토네이도(20057) | BaekJoon    | :heavy_check_mark: |
 | 04.07 | 시험감독(13458)               | BaekJoon    | :heavy_check_mark: |
 | 04.08 | 미생물 격리                   | SWEA        | :heavy_check_mark: |
+| 04.08 | 등산로 조성                   | SWEA        | :heavy_check_mark: |
