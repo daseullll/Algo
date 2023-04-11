@@ -90,7 +90,7 @@
 | 04.01 | 큰 수 만들기                  | Programmers | :heavy_check_mark: |
 | 04.02 | 구명보트                      | Programmers | :heavy_check_mark: |
 | 04.02 | 압축                          | Programmers | :heavy_check_mark: |
-| 04.03 | 마이다스\_test1               | Programmers | :heavy_check_mark: |
+| 04.03 | 마이다스\_test1               | Programmers |                    |
 | 04.04 | 게임 개발(1516)               | BaekJoon    | :heavy_check_mark: |
 | 04.04 | 마법사상어와 파이어볼(20056)  | BaekJoon    | :heavy_check_mark: |
 | 04.05 | 이차원 배열과 연산(17140)     | BaekJoon    | :heavy_check_mark: |
@@ -100,3 +100,4 @@
 | 04.08 | 미생물 격리                   | SWEA        | :heavy_check_mark: |
 | 04.09 | 등산로 조성                   | SWEA        | :heavy_check_mark: |
 | 04.10 | 달력(20207)                   | BaekJoon    | :heavy_check_mark: |
+| 04.11 | n진수 게임                    | Programmers | :heavy_check_mark: |
