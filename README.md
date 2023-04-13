@@ -102,3 +102,5 @@
 | 04.10 | 달력(20207)                   | BaekJoon    | :heavy_check_mark: |
 | 04.11 | n진수 게임                    | Programmers | :heavy_check_mark: |
 | 04.12 | 오목(2615)                    | BaekJoon    | :heavy_check_mark: |
+| 04.13 | cj1                           | Programmers | :heavy_check_mark: |
+| 04.13 | cj2                           | Programmers | :heavy_check_mark: |
