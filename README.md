@@ -110,3 +110,4 @@
 | 04.18 | 어두운 굴다리(17266)          | BaekJoon    | :heavy_check_mark: |
 | 04.28 | 장애물 인식 프로그램          | Softeer     | :heavy_check_mark: |
 | 04.29 | 지도 자동 구축                | Softeer     | :heavy_check_mark: |
+| 05.02 | 비밀메뉴                      | Softeer     | :heavy_check_mark: |
