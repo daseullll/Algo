@@ -111,3 +111,4 @@
 | 04.28 | 장애물 인식 프로그램          | Softeer     | :heavy_check_mark: |
 | 04.29 | 지도 자동 구축                | Softeer     | :heavy_check_mark: |
 | 05.02 | 비밀메뉴                      | Softeer     | :heavy_check_mark: |
+| 05.02 | 회의실 예약                   | Softeer     | :heavy_check_mark: |
